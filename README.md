@@ -1,5 +1,3 @@
-# Untitled
-
 # ***Audio Scrambling***
 
 ## ***(Alireza Tabatabaeian)***
